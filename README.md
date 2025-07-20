@@ -3,8 +3,8 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](portfolio-woad-alpha-okiik349nb.vercel.app
-/)
+🔗 [View Portfolio Live]portfolio-woad-alpha-okiik349nb.vercel.app
+
 
 ## 🛠️ Tech Stack
 
